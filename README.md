@@ -1,2 +1,2 @@
 # hello-world
-Hi this is just a test of commit. 
+Hi this is just a test of commit. Hello.
